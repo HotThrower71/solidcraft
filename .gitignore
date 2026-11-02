@@ -15,3 +15,13 @@ mutants.out*/
 # external corpus downloads (cargo xtask external-corpus, #1397): fetched at test time,
 # hash-pinned in tests/external-corpus.toml; never commit case data
 /corpus/
+
+# Software Factory (estado local, fuera de git)
+/.sf/estado.json
+/.sf/peticiones.json
+/.sf/peticiones.lock
+/.sf/historial.jsonl
+/.sf/copias/
+/.sf/subagentes.json
+/.claude/worktrees/
+/sf/decisiones/README.html

@@ -1,0 +1,13 @@
+{
+  "sf": "1.7.4",
+  "proyecto": "SolidCraft Android",
+  "descripcion": "Port a Android y tableta de SolidCraft, CAD 3D paramétrico en Rust",
+  "color": "cyan",
+  "metodologia": true,
+  "idioma": "es",
+  "commits": "propio",
+  "remoto": "fork",
+  "rama_main": "android",
+  "manifiesto": null,
+  "coautor": "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
+}
